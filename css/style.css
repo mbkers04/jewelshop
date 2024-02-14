@@ -715,7 +715,7 @@ section.bottom {
 }
 .bten:hover{
    border-color:black;
-   color:rgb(0, 0, 0);
+   color:transparent;
    border-radius: 15px;
  transition: 1s;
  background-color: transparent;
